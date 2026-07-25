@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.apple.store</string>
+				<string>com.apple.store.Jolly</string>
 				<key>bundle-version</key>
 				<string>670050</string>
 				<key>kind</key>
